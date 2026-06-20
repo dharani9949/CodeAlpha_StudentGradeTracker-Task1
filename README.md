@@ -73,6 +73,7 @@ Enter Marks: 99
 
 ========== STUDENT SUMMARY REPORT ==========
 
+```text
 Name : Dharani | Marks : 67
 Name : Raju | Marks : 90
 Name : Rani | Marks : 99
@@ -81,6 +82,7 @@ Average Marks : 85.33
 Highest Marks : 99
 Lowest Marks : 67
 Total Students : 3
+```
 
 ---
 
