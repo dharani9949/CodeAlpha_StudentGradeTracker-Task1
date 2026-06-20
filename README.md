@@ -3,12 +3,12 @@
 
 ## Internship Details
 
-**Company:** CodeAlpha
-**Domain:** Java Programming
-**Project:** Student Grade Tracker
-**Intern Name:** Nalam.Dharani Lakshmi Tejaswini
-**Roll Number:** 23491A0541
-**College:** QIS College Of Engineering and Technology
+##**Company:** CodeAlpha
+##**Domain:** Java Programming
+##**Project:** Student Grade Tracker
+##**Intern Name:** Nalam.Dharani Lakshmi Tejaswini
+##**Roll Number:** 23491A0541
+##**College:** QIS College Of Engineering and Technology
 
 ---
 
