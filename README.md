@@ -98,6 +98,8 @@ Total Students : 3
 ---
 
 ## Author
-
+```text
 **Name:** Nalam.Dharani Lakshmi Tejaswini
+   
 **Roll Number:** 23491A0541
+```
