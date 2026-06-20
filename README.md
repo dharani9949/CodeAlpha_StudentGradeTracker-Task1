@@ -59,15 +59,15 @@ Enter number of students: 3
 
 Student 1
 Enter Name: Dharani
-_ Enter Marks: 67
+* Enter Marks: 67
 
 Student 2
 Enter Name: Raju
-_ Enter Marks: 90
+* Enter Marks: 90
 
 Student 3
 Enter Name: Rani
-Enter Marks: 99
+* Enter Marks: 99
 
 ========== STUDENT SUMMARY REPORT ==========
 
