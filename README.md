@@ -99,6 +99,9 @@ Total Students : 3
 
 ## Author
 ```text
+## Author
+
 - **Name:** Nalam.Dharani Lakshmi Tejaswini
 - **Roll Number:** 23491A0541
+- **College:** QIS College Of Engineering and Technology
 ```
