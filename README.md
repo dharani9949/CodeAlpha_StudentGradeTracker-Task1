@@ -9,7 +9,6 @@
 - **Intern Name:** Nalam.Dharani Lakshmi Tejaswini
 - **𝗦𝘁𝘂𝗱𝗲𝗻𝘁 𝗜𝗗:** CA/DF1/107878
 - **College:** QIS College Of Engineering and Technology
-- **𝗗𝘂𝗿𝗮𝘁𝗶𝗼𝗻:**1st June 2026 to 30th June 2026
 
 ---
 
